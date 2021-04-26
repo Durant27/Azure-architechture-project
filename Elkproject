@@ -1,1 +1,16 @@
-<mxfile host="app.diagrams.net" modified="2021-04-26T19:50:50.581Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.85 Safari/537.36" version="14.6.6" etag="_fa9pvJ78GiTw7jx7WFL" type="github"><diagram id="0FCmucvZwptm8QR0n8-_">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-04-26T20:17:23.374Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.85 Safari/537.36" etag="8f__YbWKbHFOnnrarN0r" version="14.6.6" type="github">
+  <diagram id="0FCmucvZwptm8QR0n8-_" name="Page-1">
+    <mxGraphModel dx="1662" dy="914" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="1TWmS1Fi62I2R26lm_Ef-1" value="Red-Team-NSG&lt;br&gt;Port 80 open to load balancer&lt;br&gt;Port 22 open from IP to Virtual Network&lt;br&gt;Port 80 open from IP to Web 1 and web2&lt;br&gt;Port 22 allowed from IP&lt;br&gt;Deny All inbound&amp;nbsp;&lt;br&gt;Allow Virtual Network inbound&lt;br&gt;" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/ai_machine_learning/Cognitive_Services.svg;fontFamily=Georgia;" vertex="1" parent="1">
+          <mxGeometry x="240" y="250" width="90" height="63.53" as="geometry" />
+        </mxCell>
+        <mxCell id="1TWmS1Fi62I2R26lm_Ef-2" value="Elk-Team-NSG&lt;br&gt;Port 22 open from Home IP&lt;br&gt;Elk TCP, 5601 from IP to ELK-VM&lt;br&gt;Deny All inbound&lt;br&gt;Web-out, 80, 443, 53, to ELK-VM" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/ai_machine_learning/Cognitive_Services.svg;fontFamily=Georgia;" vertex="1" parent="1">
+          <mxGeometry x="520" y="250" width="90" height="63.53" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
