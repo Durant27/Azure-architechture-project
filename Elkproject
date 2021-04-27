@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-04-27T02:47:50.586Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.85 Safari/537.36" etag="zXzPSITMTGwlIoWxGhic" version="14.6.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-04-27T02:51:19.730Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.85 Safari/537.36" etag="eevO94qFxDvNpl53ZZLW" version="14.6.6" type="github">
   <diagram id="0FCmucvZwptm8QR0n8-_" name="Page-1">
     <mxGraphModel dx="1240" dy="689" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -61,11 +61,11 @@
         <mxCell id="scPf14Pd8xuiIP4ef1W2-27" value="" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/ResourceGroup.svg;" vertex="1" parent="1">
           <mxGeometry x="670" y="210" width="50" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="scPf14Pd8xuiIP4ef1W2-28" value="RESOUCE GROUP" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="630" y="250" width="120" height="20" as="geometry" />
+        <mxCell id="scPf14Pd8xuiIP4ef1W2-28" value="ELK RESOUCE GROUP" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="615" y="250" width="150" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="scPf14Pd8xuiIP4ef1W2-29" value="RESOURCE GROUP" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="20" y="290" width="130" height="20" as="geometry" />
+        <mxCell id="scPf14Pd8xuiIP4ef1W2-29" value="RED RESOURCE GROUP" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="5" y="290" width="160" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
