@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-04-27T17:20:49.600Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36" etag="X77dOptrLTWFkidiHARx" version="14.6.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-04-27T17:28:41.384Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36" etag="Rl1K2K0YXeVHrvEzP8M0" version="14.6.6" type="github">
   <diagram id="0FCmucvZwptm8QR0n8-_" name="Page-1">
     <mxGraphModel dx="1718" dy="482" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1400" background="#114B5F" math="0" shadow="0">
       <root>
@@ -83,7 +83,7 @@
           <mxGeometry x="273.5" y="516.4300000000001" width="80" height="20" as="geometry" />
         </mxCell>
         <mxCell id="9n9_n4V0HLlLWo5neSlB-6" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_1;align=left;pointerEvents=1;fillColor=#F45B69;strokeColor=#028090;fontColor=#E4FDE1;" parent="1" vertex="1">
-          <mxGeometry x="450" y="205.75" width="340" height="288.5" as="geometry" />
+          <mxGeometry x="445" y="200" width="340" height="270" as="geometry" />
         </mxCell>
         <mxCell id="9n9_n4V0HLlLWo5neSlB-7" value="ssh&amp;nbsp;&lt;br&gt;port22" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_1;align=left;pointerEvents=1;direction=west;fillColor=#F45B69;strokeColor=#028090;fontColor=#E4FDE1;" parent="1" vertex="1">
           <mxGeometry y="198.43" width="425" height="270" as="geometry" />
@@ -148,6 +148,18 @@
         </mxCell>
         <mxCell id="TMjTV49zV_MLVJ7JGYiR-34" value="Subnet" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fontColor=#E4FDE1;" vertex="1" parent="1">
           <mxGeometry x="685" y="500" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="TMjTV49zV_MLVJ7JGYiR-36" value="HTTP port 5601" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fontColor=#E4FDE1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="233.72" width="100" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="TMjTV49zV_MLVJ7JGYiR-37" value="" style="shape=partialRectangle;whiteSpace=wrap;html=1;bottom=0;right=0;fillColor=none;rounded=0;sketch=0;fontColor=#E4FDE1;strokeColor=#000000;strokeWidth=3;direction=south;" vertex="1" parent="1">
+          <mxGeometry x="425" y="170" width="60" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="TMjTV49zV_MLVJ7JGYiR-39" value="" style="shape=partialRectangle;whiteSpace=wrap;html=1;top=0;left=0;fillColor=none;rounded=0;sketch=0;fontColor=#E4FDE1;strokeColor=#000000;strokeWidth=3;direction=west;" vertex="1" parent="1">
+          <mxGeometry x="260" y="173.72" width="115" height="106.28" as="geometry" />
+        </mxCell>
+        <mxCell id="TMjTV49zV_MLVJ7JGYiR-40" value="HTTP&amp;nbsp; Port 80" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fontColor=#E4FDE1;" vertex="1" parent="1">
+          <mxGeometry x="150" y="216.86" width="90" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
